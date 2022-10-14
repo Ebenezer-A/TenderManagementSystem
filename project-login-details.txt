@@ -1,0 +1,7 @@
+1)Admin Login
+Email Id:admin@gmail.com
+Password:admin
+
+2)Vendor Login
+Email Id:abeni@gmail.com
+Password:java@1991
